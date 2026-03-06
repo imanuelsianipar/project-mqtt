@@ -1,4 +1,4 @@
-=====================================================================Bahasa Indonesia========================================================================================
+============================================================Bahasa Indonesia========================================================================================
 
 Halo teman-teman , aku Imanuel dan aku sedang membuat projek untuk skripsi mengenai monitoring peralatan AWS dan ARG yang ada di Jawa Barat dengan protokol MQTT. Feel free and enjoy ya untuk membaca atau mempraktikkannya. Dan aku terima jika ada yang ingin berkolaborasi. :)
 Berikut adalah deksripsi mengenai website saya : 
@@ -75,7 +75,7 @@ Berikut adalah deksripsi mengenai website saya :
    - php artisan key:generate (Copy file .env dan sesuaikan database:)
    - php artisan serve (Jalankan server secara lokal )
 
-=========================================================================English Languange===================================================================================
+===================================================================English Languange===================================================================================
 
 
 
